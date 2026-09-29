@@ -4,7 +4,7 @@ response=ollama.chat(
     messages=[
         {
             "role":"user",
-            "content":"explain me as a 5 years old child in 2 to 3 lines"
+            "content":"explain me as a 5 years old child in 3 to 4 lines"
         },
         {
             "role":"user",
