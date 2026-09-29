@@ -1,6 +1,6 @@
 import ollama
 while True:
-    question = input("Ask the question (or type 'exit' to quit): ")
+    question = input("Ask the question :")
     if question.lower() == "exit":
         break                   
 
