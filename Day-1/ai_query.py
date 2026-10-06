@@ -4,7 +4,7 @@ response=ollama.chat(
     messages=[
         {
             "role":"user",
-            "content":"What is AI"
+            "content":"explain about the difference between supervised and unsupervised learning in 2 lines"
         }
     ]
 )
